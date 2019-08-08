@@ -1,2 +1,2 @@
-# helpMe
-js lessons for stupid
+# myWorke example
+js 
